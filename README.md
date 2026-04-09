@@ -68,8 +68,8 @@ schedule:
 ### 🔗 多账户配置
 支持配置多个账户，在Secrets中添加：
 ```
-TYYP_USERNAME: 账户1手机号&账户2手机号
-TYYP_PSW: 账户1密码&账户2密码
+TYYP_USERNAME: 账户1手机号&账户2手机号&账户3手机号
+TYYP_PSW: 账户1密码&账户2密码&账户3密码
 ```
 
 ---
